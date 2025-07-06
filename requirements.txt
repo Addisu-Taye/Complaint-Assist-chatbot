@@ -1,0 +1,10 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+langchain
+transformers
+torch
+streamlit
+matplotlib
+seaborn

@@ -1,0 +1,68 @@
+# Python & Virtual Environment
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.po
+coverage.xml
+/.env
+/env/
+/venv/
+*.envrc
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+nbconvert.py
+*.ipynb
+*.ipynb.gz
+
+# Data Files
+/data/*.csv
+/data/*.json
+/data/*.parquet
+/data/*.pickle
+/data/*.pkl
+
+# Vector Store / Models
+/vector_store/
+/models/
+/embeddings/
+
+# OS Generated
+Thumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+*.iml
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Documentation
+/docx/
+*.docx
+*.pdf
+*.md~  # Backup files
+
+# CI/CD
+.github/
+.gitlab-ci.yml
