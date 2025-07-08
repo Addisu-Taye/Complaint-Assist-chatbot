@@ -2,7 +2,7 @@
 # generator.py
 # Task: 3 - RAG Core Logic
 # Created by: Addisu Taye
-# Date: July 4, 2025
+# Date: July 7, 2025
 # Purpose: Use LLM to answer questions using retrieved context
 # Key Features: QA pipeline using HuggingFace transformers
 """

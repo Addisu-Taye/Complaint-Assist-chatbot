@@ -2,7 +2,7 @@
 # retriever.py
 # Task: 3 - RAG Core Logic
 # Created by: Addisu Taye
-# Date: July 4, 2025
+# Date: July 7, 2025
 # Purpose: Retrieve relevant complaint chunks based on user query
 # Key Features: Uses FAISS for similarity search
 """
